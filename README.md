@@ -1,3 +1,3 @@
 # 计算机发展历史
 ### 三级标题
-![第一](https://github.com/Norna/Markdown/edit/main/)
+[第一](https://github.com/Norna/Markdown/blob/main/homework/%E5%A5%B3%E5%AD%A9%E5%96%9D%E5%95%A4%E9%85%92%20%E9%A3%98%E7%AA%97%20%E5%9F%8E%E5%B8%82%E5%A4%9C%E6%99%AF%20%E9%9B%A8%E5%A4%A9%20%C3%A8%20%E5%A5%BD%E7%9C%8B%E5%94%AF%E7%BE%8E4k%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg)
